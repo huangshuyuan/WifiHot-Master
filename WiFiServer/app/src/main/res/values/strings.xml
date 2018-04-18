@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WiFiServerDemo</string>
+    <string name="create_wifi">创建热点</string>
+    <string name="close_wifi">关闭热点</string>
+    <string name="send_text">发送</string>
+    <string name="receive_text">接收</string>
+</resources>
